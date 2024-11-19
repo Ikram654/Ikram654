@@ -1,13 +1,23 @@
-<img align="right" height="180" src="https://i.ibb.co/JxdVt3x/TSfkp-Us-Q-400x400.jpg"  />
+<img align="right" height="150" src="https://i.ibb.co/JxdVt3x/TSfkp-Us-Q-400x400.jpg"  />
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="telegram logo"  />
+  <a href="https://www.youtube.com/@ikteachofficial" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/ikteach653" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/ikteach" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/ikteach653" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="facebook logo"  />
+  </a>
+  <a href="t.me/Ikteach_Official" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="telegram logo"  />
+  </a>
 </div>
 
 ###
