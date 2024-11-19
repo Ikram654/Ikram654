@@ -1,4 +1,4 @@
-<img align="right" height="120" src="https://i.ibb.co/JxdVt3x/TSfkp-Us-Q-400x400.jpg"  />
+<img align="right" height="110" src="https://i.ibb.co/JxdVt3x/TSfkp-Us-Q-400x400.jpg"  />
 
 ###
 
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/ikteach" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="16" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="instagram logo"  />
   </a>
   <a href="https://www.facebook.com/ikteach653" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="18" alt="facebook logo"  />
